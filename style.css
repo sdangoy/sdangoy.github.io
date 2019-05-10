@@ -23,6 +23,7 @@ p {
 	background-color: orange;
 	border-radius: 12px;
 	border: 2px solid black;
-	margin: 170px auto 0px auto;
+	width: 200px;
+	margin-top: 170px;
 }
 

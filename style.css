@@ -19,11 +19,14 @@ p {
 	margin-top: 250px;
 }
 
+.clear {
+	text-align: center;
+}
+
 .btn-primary {
 	background-color: orange;
 	border-radius: 12px;
 	border: 2px solid black;
-	width: 200px;
 	margin-top: 170px;
 }
 
